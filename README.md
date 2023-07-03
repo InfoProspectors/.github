@@ -1,4 +1,4 @@
-README.mdInfoProspectors
+InfoProspectors
 ================
 
 Welcome to InfoProspectors! We are a team of dedicated data enthusiasts who specialize in collecting, exploring, and extracting valuable insights from information. Our goal is to prospect and discover meaningful knowledge hidden within data, helping our clients make informed decisions.
