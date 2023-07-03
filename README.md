@@ -1,2 +1,36 @@
-# .github
-妙妙屋是一个专注于数据采集、分析和爬取的组织。我们致力于通过获取和处理各种数据，为客户提供有价值的信息和见解。无论是从网页、API还是其他数据源，我们都能够高效地获取所需数据，并运用数据分析技术来提供深入洞察和可靠的决策支持。我们的团队拥有丰富的数据科学和技术经验，并且熟练运用各种编程语言和工具，以实现自动化和高度可定制的数据采集和分析解决方案。无论您是需要市场研究、竞争情报、舆情分析还是其他数据相关的需求，妙妙屋都能够为您提供高质量的服务和解决方案。
+README.mdInfoProspectors
+================
+
+Welcome to InfoProspectors! We are a team of dedicated data enthusiasts who specialize in collecting, exploring, and extracting valuable insights from information. Our goal is to prospect and discover meaningful knowledge hidden within data, helping our clients make informed decisions.
+
+About Us
+--------
+
+At InfoProspectors, we are passionate about data and its potential to provide valuable insights. Our team of skilled data scientists, analysts, and developers work together to create innovative solutions for data collection, analysis, and exploration.
+
+Our Services
+------------
+
+- Data Collection: We efficiently gather data from various sources, including web pages, APIs, and databases.
+
+- Data Analysis: We use advanced data analysis techniques to extract valuable patterns and trends from large datasets.
+
+- Data Exploration: We explore data to uncover hidden insights and generate actionable recommendations.
+
+- Custom Solutions: We develop tailored data solutions to meet specific business needs.
+
+Join Us
+-------
+
+If you are interested in data, technology, and making an impact through data-driven insights, we invite you to join our team! We welcome data enthusiasts from diverse backgrounds and expertise levels.
+
+Contact
+-------
+
+To learn more about InfoProspectors or discuss potential collaborations, please reach out to us:
+
+- Email: h7ml@qq.com
+- Website: infoprospectors.now.sh
+- GitHub: https://github.com/InfoProspectors
+
+Let's embark on a data exploration journey together!
